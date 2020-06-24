@@ -1,0 +1,12 @@
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\DAL\bin\Debug\DAL.dll
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\DAL\bin\Debug\DAL.pdb
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\DAL\obj\Debug\DAL.dll
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\DAL\obj\Debug\DAL.pdb
+C:\Users\Matias\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Matias\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Matias\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\DAL\obj\Debug\DAL.dll
+C:\Users\Matias\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\DAL\obj\Debug\DAL.pdb
+C:\Users\Matias\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\DAL\bin\Debug\DAL.dll
+C:\Users\Matias\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\DAL\bin\Debug\DAL.pdb

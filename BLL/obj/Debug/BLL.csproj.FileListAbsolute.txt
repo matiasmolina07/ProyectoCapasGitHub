@@ -1,0 +1,13 @@
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\BLL\bin\Debug\BLL.dll
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\BLL\bin\Debug\BLL.pdb
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\BLL\bin\Debug\DAL.dll
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\BLL\bin\Debug\DAL.pdb
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\BLL\obj\Debug\BLL.dll
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\BLL\obj\Debug\BLL.pdb
+C:\Users\Matias\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Matias\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Matias\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\BLL\obj\Debug\BLL.dll
+C:\Users\Matias\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\BLL\obj\Debug\BLL.pdb

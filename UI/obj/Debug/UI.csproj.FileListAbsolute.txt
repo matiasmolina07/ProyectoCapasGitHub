@@ -1,0 +1,26 @@
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\bin\Debug\UI.exe.config
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\bin\Debug\UI.exe
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\bin\Debug\UI.pdb
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\bin\Debug\BLL.dll
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\bin\Debug\BLL.pdb
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\obj\Debug\UI.Form1.resources
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\obj\Debug\UI.exe
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\obj\Debug\UI.pdb
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\obj\Debug\UI.FormSQL.resources
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\obj\Debug\UI.FormSP.resources
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\bin\Debug\DAL.dll
+C:\Users\Matias MAC\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\bin\Debug\DAL.pdb
+C:\Users\Matias\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Matias\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\obj\Debug\UI.Form1.resources
+C:\Users\Matias\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\obj\Debug\UI.FormSP.resources
+C:\Users\Matias\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\obj\Debug\UI.FormSQL.resources
+C:\Users\Matias\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Matias\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Matias\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Matias\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\obj\Debug\UI.exe
+C:\Users\Matias\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\5to Cuatrimestre\LUG\TPNro1\ProyectoTP1_LUG\MolinaMatiasTP1\UI\obj\Debug\UI.pdb
